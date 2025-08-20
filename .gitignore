@@ -1,0 +1,20 @@
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# SQL Server database files
+*.mdf
+*.ldf
+*.ndf
+
+# Logs & cache
+*.log
+*.cache
